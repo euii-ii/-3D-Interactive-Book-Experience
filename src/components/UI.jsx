@@ -92,22 +92,22 @@ export const UI = () => {
               Wawa Sensei
             </h1>
             <h2 className="shrink-0 text-white text-8xl italic font-light">
-              React Three Fiber
+              lets Create
             </h2>
             <h2 className="shrink-0 text-white text-12xl font-bold">
-              Three.js
+              Enovative
             </h2>
             <h2 className="shrink-0 text-transparent text-12xl font-bold italic outline-text">
-              Ultimate Guide
+              Ideas
             </h2>
             <h2 className="shrink-0 text-white text-9xl font-medium">
-              Tutorials
+              together
             </h2>
             <h2 className="shrink-0 text-white text-9xl font-extralight italic">
               Learn
             </h2>
             <h2 className="shrink-0 text-white text-13xl font-bold">
-              Practice
+              More
             </h2>
             <h2 className="shrink-0 text-transparent text-13xl font-bold outline-text italic">
               Creative
@@ -118,16 +118,16 @@ export const UI = () => {
               Wawa Sensei
             </h1>
             <h2 className="shrink-0 text-white text-8xl italic font-light">
-              React Three Fiber
+              lets Create
             </h2>
             <h2 className="shrink-0 text-white text-12xl font-bold">
-              Three.js
+              Enovative
             </h2>
             <h2 className="shrink-0 text-transparent text-12xl font-bold italic outline-text">
-              Ultimate Guide
+              Ideas
             </h2>
             <h2 className="shrink-0 text-white text-9xl font-medium">
-              Tutorials
+              Together
             </h2>
             <h2 className="shrink-0 text-white text-9xl font-extralight italic">
               Learn
